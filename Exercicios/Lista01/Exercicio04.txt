@@ -1,0 +1,1 @@
+Na especificação do protocolo HTTP, usado atualmente por todas as aplicações que executam na web, existe uma lista de verbos (Ações) que podemos utilizar na construção de APIs REST, cite os cinco verbos HTTP mais comuns e de uma descrição de cada um deles.
